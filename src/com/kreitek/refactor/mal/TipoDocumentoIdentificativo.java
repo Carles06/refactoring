@@ -1,6 +1,6 @@
 package com.kreitek.refactor.mal;
 
-public enum TIPODNI {
+public enum TipoDocumentoIdentificativo {
     DNI,
     NIE,
     CIF

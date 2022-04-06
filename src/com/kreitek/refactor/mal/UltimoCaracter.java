@@ -1,6 +1,6 @@
 package com.kreitek.refactor.mal;
 
-public enum TipoUltCaracter
+public enum UltimoCaracter
 {
     LETRA,
     NUMERO,
